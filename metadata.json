@@ -1,0 +1,5 @@
+{
+  "name": "VerbaFlow Transcribe",
+  "description": "A minimalist, high-accuracy video and podcast transcription tool supporting multiple languages and speaker identification using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
